@@ -17,12 +17,11 @@ jest.mock("@aws-sdk/s3-request-presigner", () => {
 const { sequelize, models } = require("../models");
 
 async function seedBaseData() {
-    // Upewnij się, że role istnieją (minimum do rejestracji/logowania)
     await models.roles.bulkCreate(
         [
             { roleName: "User" },
             { roleName: "Creator" },
-            { roleName: "ADMIN" }, // albo "Admin" – zależnie co masz w DB w normalnym środowisku
+            { roleName: "Administrator" },
         ],
         { ignoreDuplicates: true }
     );

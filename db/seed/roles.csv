@@ -1,0 +1,4 @@
+"roleID";"roleName";"description"
+1;"User";"Standard user"
+2;"Creator";"User with permission to upload music/podcasts"
+3;"Administrator";"Full system access"

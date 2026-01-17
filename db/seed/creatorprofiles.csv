@@ -1,0 +1,4 @@
+creatorID,userID,numberOfFollowers,bio,isActive
+3,8,1,"Nowe konto",1
+4,14,0,"Tworzę głównie muzykę rockową.",1
+5,16,0,NULL,1

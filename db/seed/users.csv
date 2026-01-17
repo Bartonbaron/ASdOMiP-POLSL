@@ -1,0 +1,6 @@
+userID,userName,password,roleID,status,email,profilePicURL,createdAt,updatedAt,volume,playbackMode,autoplay
+1,Admin,$2b$10$NX3S1i4ZDuwbvHRaqn6CjeIrmT/zDBONrd2Pi/0b7k9sMU5pMo/Gi,3,1,newmail@example.com,NULL,"2025-11-07 18:07:52","2026-01-17 14:41:13",1,normal,1
+6,Test,$2b$10$Lvy5OOe4/eXGO4kU6fHsWeo7mpGiJrPad.IkFenGn6RCWzydr9qxO,1,1,NULL,NULL,"2025-12-06 18:58:55","2025-12-19 11:43:11",1,normal,1
+7,Test2,$2b$10$MbwhmThZnsLSj7dUyMhQ.uynIQz95tQn/R8b1Q4ho8Pf4gfte2Ivy,1,1,NULL,NULL,"2025-12-06 19:06:43","2026-01-08 11:59:33",1,normal,1
+13,Nowy,$2b$10$rx6OUvPWh8VnP9L0JtM9OeftdkuZoje3BwXFtnkcvCk/7LLq7kG5W,1,1,NULL,NULL,"2026-01-09 11:10:01","2026-01-13 16:30:24",1,normal,1
+14,ALBIS,$2b$10$rabFX8eWOZAz6gdYqGAN1Ozryh8zSus0w1c2oAsgf1H4iFkq0GK8O,2,1,NULL,NULL,"2026-01-15 16:15:33","2026-01-16 10:23:50",1,normal,1
